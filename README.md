@@ -1,28 +1,56 @@
+# UndoSchool Front-End Developer Assessment
 
-# UndoSchool Course Browse Assessment
-
-## 🚀 Project Overview
-This is a responsive course browsing page built using React + Vite + Tailwind CSS.
-
-Users can:
-- Search courses
-- Filter by category
-- View course cards in grid layout
-- Responsive design for all devices
+## 👤 Candidate Details
+- **Name:** Shaheen R
+- **Date of Submission:** 24 February 2026
+- **Role Applied:** Front-End Developer
 
 ---
 
-## 🛠 Tech Stack
-- React
-- Vite
+## 📌 Project Overview
+This project is a responsive Course Browse Page built using React (Vite) and Tailwind CSS.  
+It replicates the provided Figma design and includes interactive UI elements and responsive behavior.
+
+---
+
+## 🚀 Tech Stack
+- React (Vite)
 - Tailwind CSS
+- JavaScript (ES6+)
 
 ---
 
-## 📦 Installation & Setup
+## ✨ Extra Features Added
+- Responsive design for mobile, tablet, and desktop
+- Search functionality for filtering courses
+- Category filter dropdown
+- Smooth hover animations on course cards
+- Sticky navigation bar
+- Clean and reusable component structure
+- Improved spacing and layout consistency
 
-1. Clone the repository
-2. Install dependencies
+---
+
+## 📱 Responsiveness
+Tested on:
+- Mobile (~375px)
+- Tablet
+- Desktop (~1440px)
+
+---
+
+## 🔗 Live Demo
+(ADD YOUR HOSTED LINK HERE)
+
+---
+
+## 🎥 Video Walkthrough
+(ADD YOUR VIDEO LINK HERE)
+
+---
+
+## ⚙️ How to Run Locally
 
 ```bash
 npm install
+npm run dev
