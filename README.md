@@ -45,7 +45,7 @@ https://undoschool-frontend-assessment.vercel.app/
 ---
 
 ## 🎥 Video Walkthrough
-https://drive.google.com/file/d/1AT87P1YC67KRrYfgQtNJ_jB9nwwtyvUE/view?usp=sharing
+https://drive.google.com/file/d/1LUWrl3_3tuDAIAk_0QocF5R41llbweFG/view?usp=sharing
 
 ---
 
