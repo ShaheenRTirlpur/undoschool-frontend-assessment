@@ -40,7 +40,7 @@ Tested on:
 ---
 
 ## 🔗 Live Demo
-(ADD YOUR HOSTED LINK HERE)
+https://undoschool-frontend-assessment.vercel.app/
 
 ---
 
